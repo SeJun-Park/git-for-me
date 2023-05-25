@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 And then he lives alive his life
+=======
+master changing
+>>>>>>> Stashed changes
+
